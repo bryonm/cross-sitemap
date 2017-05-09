@@ -1,0 +1,34 @@
+.label-primary {
+	cursor: pointer;
+}
+.thumbnail{
+	margin-top: 5px;
+	min-height: 300px;
+}
+.label{
+	display: inline-block;
+}
+.misc{
+	background-color: #A52A2A;
+}
+.elderly{
+	background-color: #5F9EA0;
+}
+.general{
+	background-color: #2F4F4F;
+}
+.agriculture{
+	background-color: #006400;
+}
+.shipping{
+	background-color: #B8860B;
+}
+.housing{
+	background-color: #8B0000;
+}
+.self-help{
+	background-color: #9932CC;
+}
+.water{
+	background-color: #0000CD;
+}

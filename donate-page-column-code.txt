@@ -1,0 +1,9 @@
+<div class="col-md-2">
+    <div class="thumbnail">
+      <a href="#"><img src="#" class="img-rounded center-block"></a>
+      <div class="caption">
+        <h4>#</h4>
+        <span class="label label-danger">donate button</span>
+      </div>
+    </div>
+  </div><!-- end column -->
